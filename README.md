@@ -1,5 +1,5 @@
-# ABC-unist-2022-winter
-A Basic CS Skills in UNIST 2022 winter
+# ABC-unist-2021-winter
+A Basic CS Skills in UNIST 2021 winter
 
 # 주차별 계획
 |주차|날짜|주제|설명|
