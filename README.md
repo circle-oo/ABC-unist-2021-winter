@@ -10,6 +10,8 @@ A Basic CS Skills in UNIST 2021 winter
 |4강|2022/01/17|Text Editor and Data Wrangling||
 |5강|2022/01/24|Command-line Environment||
 |6강|2022/01/26|Version Control - Git||
+|7강|2022/02/07|Version Control - Git 2||
+|8강|2022/02/09|LaTeX 1|
 
 # References
 - [MIT: The Missing Semesters](https://missing.csail.mit.edu/)
