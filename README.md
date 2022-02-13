@@ -12,6 +12,7 @@ A Basic CS Skills in UNIST 2021 winter
 |6강|2022/01/26|Version Control - Git||
 |7강|2022/02/07|Version Control - Git 2||
 |8강|2022/02/09|LaTeX 1|
+|9강|2022/02/14|LaTeX 2|
 
 # References
 - [MIT: The Missing Semesters](https://missing.csail.mit.edu/)
